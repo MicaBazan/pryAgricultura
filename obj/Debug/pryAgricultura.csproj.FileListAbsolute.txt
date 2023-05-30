@@ -1,0 +1,10 @@
+C:\Users\Alumno\source\repos\pryAgricultura\obj\Debug\pryAgricultura.csproj.AssemblyReference.cache
+C:\Users\Alumno\source\repos\pryAgricultura\obj\Debug\pryAgricultura.frm.resources
+C:\Users\Alumno\source\repos\pryAgricultura\obj\Debug\pryAgricultura.Properties.Resources.resources
+C:\Users\Alumno\source\repos\pryAgricultura\obj\Debug\pryAgricultura.csproj.GenerateResource.cache
+C:\Users\Alumno\source\repos\pryAgricultura\obj\Debug\pryAgricultura.csproj.CoreCompileInputs.cache
+C:\Users\Alumno\source\repos\pryAgricultura\bin\Debug\pryAgricultura.exe.config
+C:\Users\Alumno\source\repos\pryAgricultura\bin\Debug\pryAgricultura.exe
+C:\Users\Alumno\source\repos\pryAgricultura\bin\Debug\pryAgricultura.pdb
+C:\Users\Alumno\source\repos\pryAgricultura\obj\Debug\pryAgricultura.exe
+C:\Users\Alumno\source\repos\pryAgricultura\obj\Debug\pryAgricultura.pdb
